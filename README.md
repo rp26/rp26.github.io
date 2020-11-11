@@ -25,6 +25,7 @@
             <a href="https://www.fitbit.com/global/us/products/smartwatches/versa?sku=507BKBK" target="_blank">Fitbit Versa 2</a> <br>
             <a href="https://www.fitbit.com/global/us/products/smartwatches/versa?sku=507GYGY" target="_blank">Fitbit Versa 2 Special Edition</a> <br>
         </p>
+        
         <h2 id="trackers">Trackers</h2>
         <p>
             <a href="https://www.fitbit.com/global/us/products/trackers/inspire2?sku=418BKBK" target="_blank">Fitbit Inspire 2</a> <br>
