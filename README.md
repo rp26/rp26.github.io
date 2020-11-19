@@ -1,45 +1,38 @@
-# rp26.github.io
 <html lang="en">
     <head>
-        <title>Fitbit Devices</title>
         <meta charset="utf-8">
+        <title>Official List</title>
+        <link rel="stylesheet" href="Official-List.css">
     </head>
     <body>
-        <h1>Fitbit Devices 2020</h1>
-        <p>Jump to sections: <br>
-        <a href="#smartwatches">Smartwatches</a><br>
-        <a href="#trackers">Trackers</a><br>
-        <a href="#scales">Smart Scales</a><br>
-        <a href="#A">Accessories</a><br>
-        </p>
-        <h2 id="smartwatches">Smartwatches</h2>
-        <p>
-            <a href="https://www.fitbit.com/global/us/products/smartwatches/sense?sku=512BKBK" target="_blank">Fitbit Sense</a> <br>
-            <a href="https://www.fitbit.com/global/us/products/smartwatches/versa3?sku=511BKBK" target="_blank">Fitbit Versa 3</a>
-            <button onclick="function2()">ALERT!</button><br>
-            <script>
-                function function2() {
-                    alert("This is the fitbit that I want.");
-                }
-            </script>
-            <a href="https://www.fitbit.com/global/us/products/smartwatches/versa?sku=507BKBK" target="_blank">Fitbit Versa 2</a> <br>
-            <a href="https://www.fitbit.com/global/us/products/smartwatches/versa?sku=507GYGY" target="_blank">Fitbit Versa 2 Special Edition</a> <br>
-        </p>
-        
-        <h2 id="trackers">Trackers</h2>
-        <p>
-            <a href="https://www.fitbit.com/global/us/products/trackers/inspire2?sku=418BKBK" target="_blank">Fitbit Inspire 2</a> <br>
-            <a href="https://www.fitbit.com/global/us/products/trackers/charge4?sku=417BKGY" target="_blank">Fitbit Charge 4 Special Edition</a> <br>
-            <a href="https://www.fitbit.com/global/us/products/trackers/charge4?sku=417BKBK" target="_blank">Fitbit Charge 4</a> <br>
-            <a href="https://www.fitbit.com/global/us/products/trackers/ace2?sku=414BKBU" target="_blank">Fitbit Ace 2</a> <br>
-        </p>
-        <h2 id="scales">Smart Scales</h2>
-        <p>
-            <a href="https://www.fitbit.com/global/us/products/scales/aria-air?sku=203BK" target="_blank">Fitbit Aria Air</a>
-        </p>
-        <h2 id="A">Accessories</h2>
-        <p>
-            <a href="https://www.fitbit.com/global/us/products/accessories" target="_blank">All accessories</a>
-        </p>
+        <h1>My official list</h1>
+        <h2>Rahul</h2>
+        <table align="center">
+            <tr>
+                <td><strong>Stuff to get on sale</strong></td>
+                <td><strong>Christmas</strong></td>
+                <td><strong>Birthday</strong></td>
+            </tr>
+            <tr>
+                <td>Fitbit Versa 3</td>
+                <td>Hotel Transylvania 3: Monsters Overboard</td>
+                <td>El Fuego's Stunt Plane</td>
+            </tr>
+            <tr>
+                <td>DB POWER portable TV</td>
+                <td>Lego Movie Videogame</td>
+                <td>Hedwig Lego set</td>
+            </tr>
+            <tr>
+                <td>DB POWER Portable TV</td>
+                <td>Just Dance 2017</td>
+                <td>Minecraft Dungeons: Hero Edition</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><a href="https://www.bestbuy.com/site/apple-airpods-with-charging-case-latest-model-white/6084400.p?skuId=6084400">Airpods</a> or, <a href="https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-red-sm-r180nzraxar/">Galaxy Buds live</a></td>
+            </tr>
+
+        </table>
     </body>
 </html>
