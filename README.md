@@ -30,7 +30,7 @@
             </tr>
             <tr>
                 <td></td>
-                <td><a href="https://www.bestbuy.com/site/apple-airpods-with-charging-case-latest-model-white/6084400.p?skuId=6084400">Airpods</a>or, <a href="https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-red-sm-r180nzraxar/">Galaxy Buds live</a></td>
+                <td><a href="https://www.bestbuy.com/site/apple-airpods-with-charging-case-latest-model-white/6084400.p?skuId=6084400">Airpods</a> or, <a href="https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-red-sm-r180nzraxar/">Galaxy Buds live</a></td>
             </tr>
 
         </table>
