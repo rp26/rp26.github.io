@@ -30,7 +30,13 @@
             </tr>
             <tr>
                 <td></td>
-                <td><a href="https://www.bestbuy.com/site/apple-airpods-with-charging-case-latest-model-white/6084400.p?skuId=6084400" target="_blank">Airpods</a> or, <a href="https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-red-sm-r180nzraxar/" target="_blank">Galaxy Buds live</a></td>
+                <td><a href="https://www.bestbuy.com/site/apple-airpods-with-charging-case-latest-model-white/6084400.p?skuId=6084400" target="_blank">Airpods</a>
+                    or, <a href="https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-red-sm-r180nzraxar/" target="_blank">Galaxy Buds live</a><button onclick="function2()">ALERT!</button>
+                    <script>
+                        function function2() {
+                        alert("I want these more.");
+                        }
+                    </script></td>
             </tr>
 
         </table>
