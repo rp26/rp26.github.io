@@ -1,40 +1,27 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Official List</title>
-        <link rel="stylesheet" href="Official-List.css">
+        <title>Xbox One Games</title>
     </head>
     <body>
-        <h1>My official list</h1>
-        <h2>Rahul</h2>
-        <table align="center">
-            <tr>
-                <td><strong>Stuff to get on sale</strong></td>
-                <td><strong>Christmas</strong></td>
-            </tr>
-            <tr>
-                <td>Fitbit Versa 3</td>
-                <td>Hotel Transylvania 3: Monsters Overboard</td>
-            </tr>
-            <tr>
-                <td>DB POWER portable TV</td>
-                <td>Lego Movie Videogame</td>
-            </tr>
-            <tr>
-                <td>DB POWER Portable TV</td>
-                <td>Just Dance 2017</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><a href="https://www.bestbuy.com/site/apple-airpods-with-charging-case-latest-model-white/6084400.p?skuId=6084400" target="_blank">Airpods</a>
-                    or, <a href="https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-red-sm-r180nzraxar/" target="_blank">Galaxy Buds live</a><button onclick="function2()">ALERT!</button>
-                    <script>
-                        function function2() {
-                        alert("I want these more.");
-                        }
-                    </script></td>
-            </tr>
-
-        </table>
+        <h1>Rahul's Xbox Games</h1>
+        <ul>
+            <li>Minecraft Dungeons: Hero edition</li>
+            <li>Wreckfest</li>
+            <li>Team Sonic Racing</li>
+            <li>Minecraft: Xbox one edition</li>
+            <li>Rocket League: Ultimate edition</li>
+            <li>The Lego Move 2 Videogame</li>
+            <li>Forza Horizon 2</li>
+            <li>Ace Combat 7: Skies Unknown</li>
+            <li>Just Dance 2020</li>
+            <li>Lego Jurassic World</li>
+            <li>Dragon Ball Fighterz</li>
+            <li>Lego Dimensions</li>
+            <li>NHL 19</li>
+            <li>Just Dance 2014</li>
+            <li>Just Dance 2015</li>
+            <li>Just Dance 2018</li>
+        </ul>
     </body>
 </html>
